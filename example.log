@@ -1,0 +1,12 @@
+INFO: User 'john.doe' logged in successfully from 192.168.1.10.
+    ERROR: Failed login from 10.0.0.5. Invalid password.
+    INFO: System startup complete.
+    ERROR: Failed login from 10.0.0.5. Invalid password.
+    WARNING: Disk space low on /dev/sda1.
+    INFO: User 'jane.smith' logged in successfully from 172.16.0.20.
+    ERROR: Failed login from 10.0.0.5. Invalid password.
+    ERROR: Failed login from 10.0.0.5. Invalid password.
+    ERROR: Failed login from 10.0.0.5. Invalid password.
+    ERROR: Failed login from 192.168.1.100. Unknown user.
+    INFO: Application data saved.
+    ERROR: Failed login from 10.0.0.5. Invalid password.

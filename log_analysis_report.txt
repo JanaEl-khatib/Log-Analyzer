@@ -1,0 +1,20 @@
+Log Analysis Report
+===================
+Processed file: example.log
+Total lines: 12
+
+Failed Login Attempts:
+10.0.0.5: 6 attempts
+192.168.1.100: 1 attempts
+
+Potential Brute-Force IPs:
+ALERT: 10.0.0.5 - 6 failed attempts
+
+Suspicious Entries:
+ERROR: Failed login from 10.0.0.5. Invalid password.
+ERROR: Failed login from 10.0.0.5. Invalid password.
+ERROR: Failed login from 10.0.0.5. Invalid password.
+ERROR: Failed login from 10.0.0.5. Invalid password.
+ERROR: Failed login from 10.0.0.5. Invalid password.
+ERROR: Failed login from 192.168.1.100. Unknown user.
+ERROR: Failed login from 10.0.0.5. Invalid password.
