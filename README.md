@@ -2,9 +2,9 @@
 
 This Python script analyzes system log files to identify:
 
-- 📌 Repeated failed login attempts
-- ⚠️ Potential brute-force IP addresses
-- 🕵️ Suspicious log entries (e.g. "unauthorized", "denied", etc.)
+- Repeated failed login attempts
+- Potential brute-force IP addresses
+- Suspicious log entries (e.g. "unauthorized", "denied", etc.)
 
 It generates a clean, readable report and optionally saves it to a text file for further review.
 
